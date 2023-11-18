@@ -1,0 +1,79 @@
+@options
+@packages
+-classpath
+'C:/Users/mj371/.m2/repository/jakarta/platform/jakarta.jakartaee-api/10.0.0/jakarta.jakartaee-api-10.0.0.jar;C:/Users/mj371/.m2/repository/jakarta/platform/jakarta.jakartaee-web-api/10.0.0/jakarta.jakartaee-web-api-10.0.0.jar;C:/Users/mj371/.m2/repository/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar;C:/Users/mj371/.m2/repository/jakarta/servlet/jsp/jakarta.servlet.jsp-api/3.1.0/jakarta.servlet.jsp-api-3.1.0.jar;C:/Users/mj371/.m2/repository/jakarta/el/jakarta.el-api/5.0.1/jakarta.el-api-5.0.1.jar;C:/Users/mj371/.m2/repository/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0.jar;C:/Users/mj371/.m2/repository/jakarta/faces/jakarta.faces-api/4.0.1/jakarta.faces-api-4.0.1.jar;C:/Users/mj371/.m2/repository/jakarta/ws/rs/jakarta.ws.rs-api/3.1.0/jakarta.ws.rs-api-3.1.0.jar;C:/Users/mj371/.m2/repository/jakarta/websocket/jakarta.websocket-api/2.1.0/jakarta.websocket-api-2.1.0.jar;C:/Users/mj371/.m2/repository/jakarta/websocket/jakarta.websocket-client-api/2.1.0/jakarta.websocket-client-api-2.1.0.jar;C:/Users/mj371/.m2/repository/jakarta/json/jakarta.json-api/2.1.0/jakarta.json-api-2.1.0.jar;C:/Users/mj371/.m2/repository/jakarta/json/bind/jakarta.json.bind-api/3.0.0/jakarta.json.bind-api-3.0.0.jar;C:/Users/mj371/.m2/repository/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar;C:/Users/mj371/.m2/repository/jakarta/ejb/jakarta.ejb-api/4.0.1/jakarta.ejb-api-4.0.1.jar;C:/Users/mj371/.m2/repository/jakarta/transaction/jakarta.transaction-api/2.0.1/jakarta.transaction-api-2.0.1.jar;C:/Users/mj371/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.1.0/jakarta.persistence-api-3.1.0.jar;C:/Users/mj371/.m2/repository/jakarta/validation/jakarta.validation-api/3.0.2/jakarta.validation-api-3.0.2.jar;C:/Users/mj371/.m2/repository/jakarta/interceptor/jakarta.interceptor-api/2.1.0/jakarta.interceptor-api-2.1.0.jar;C:/Users/mj371/.m2/repository/jakarta/enterprise/jakarta.enterprise.cdi-api/4.0.1/jakarta.enterprise.cdi-api-4.0.1.jar;C:/Users/mj371/.m2/repository/jakarta/enterprise/jakarta.enterprise.lang-model/4.0.1/jakarta.enterprise.lang-model-4.0.1.jar;C:/Users/mj371/.m2/repository/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar;C:/Users/mj371/.m2/repository/jakarta/authentication/jakarta.authentication-api/3.0.0/jakarta.authentication-api-3.0.0.jar;C:/Users/mj371/.m2/repository/jakarta/security/enterprise/jakarta.security.enterprise-api/3.0.0/jakarta.security.enterprise-api-3.0.0.jar;C:/Users/mj371/.m2/repository/jakarta/jms/jakarta.jms-api/3.1.0/jakarta.jms-api-3.1.0.jar;C:/Users/mj371/.m2/repository/jakarta/activation/jakarta.activation-api/2.1.0/jakarta.activation-api-2.1.0.jar;C:/Users/mj371/.m2/repository/jakarta/mail/jakarta.mail-api/2.1.0/jakarta.mail-api-2.1.0.jar;C:/Users/mj371/.m2/repository/jakarta/resource/jakarta.resource-api/2.1.0/jakarta.resource-api-2.1.0.jar;C:/Users/mj371/.m2/repository/jakarta/authorization/jakarta.authorization-api/2.1.0/jakarta.authorization-api-2.1.0.jar;C:/Users/mj371/.m2/repository/jakarta/batch/jakarta.batch-api/2.1.1/jakarta.batch-api-2.1.1.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/mj371/OneDrive/Documentos/Proyecto JSP/ejemplo1/actividad1/src/main/java;C:/Users/mj371/OneDrive/Documentos/Proyecto JSP/ejemplo1/actividad1/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/mj371/OneDrive/Documentos/Proyecto JSP/ejemplo1/actividad1/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'actividad1-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/mj371/OneDrive/Documentos/Proyecto JSP/ejemplo1/actividad1/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'actividad1-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+com.mycompany.actividad1
+com.mycompany.actividad1.resources
+C:\Users\mj371\.m2\repository\jakarta\platform\jakarta.jakartaee-api\10.0.0\jakarta.jakartaee-api-10.0.0.jar = 1698820753571
+C:\Users\mj371\.m2\repository\jakarta\platform\jakarta.jakartaee-web-api\10.0.0\jakarta.jakartaee-web-api-10.0.0.jar = 1698820753819
+C:\Users\mj371\.m2\repository\jakarta\servlet\jakarta.servlet-api\6.0.0\jakarta.servlet-api-6.0.0.jar = 1698820754178
+C:\Users\mj371\.m2\repository\jakarta\servlet\jsp\jakarta.servlet.jsp-api\3.1.0\jakarta.servlet.jsp-api-3.1.0.jar = 1698820753909
+C:\Users\mj371\.m2\repository\jakarta\el\jakarta.el-api\5.0.1\jakarta.el-api-5.0.1.jar = 1698820753933
+C:\Users\mj371\.m2\repository\jakarta\servlet\jsp\jstl\jakarta.servlet.jsp.jstl-api\3.0.0\jakarta.servlet.jsp.jstl-api-3.0.0.jar = 1698820753886
+C:\Users\mj371\.m2\repository\jakarta\faces\jakarta.faces-api\4.0.1\jakarta.faces-api-4.0.1.jar = 1698820753982
+C:\Users\mj371\.m2\repository\jakarta\ws\rs\jakarta.ws.rs-api\3.1.0\jakarta.ws.rs-api-3.1.0.jar = 1698820754099
+C:\Users\mj371\.m2\repository\jakarta\websocket\jakarta.websocket-api\2.1.0\jakarta.websocket-api-2.1.0.jar = 1698820754004
+C:\Users\mj371\.m2\repository\jakarta\websocket\jakarta.websocket-client-api\2.1.0\jakarta.websocket-client-api-2.1.0.jar = 1698820754026
+C:\Users\mj371\.m2\repository\jakarta\json\jakarta.json-api\2.1.0\jakarta.json-api-2.1.0.jar = 1698820754057
+C:\Users\mj371\.m2\repository\jakarta\json\bind\jakarta.json.bind-api\3.0.0\jakarta.json.bind-api-3.0.0.jar = 1698820754086
+C:\Users\mj371\.m2\repository\jakarta\annotation\jakarta.annotation-api\2.1.1\jakarta.annotation-api-2.1.1.jar = 1698820754099
+C:\Users\mj371\.m2\repository\jakarta\ejb\jakarta.ejb-api\4.0.1\jakarta.ejb-api-4.0.1.jar = 1698820754126
+C:\Users\mj371\.m2\repository\jakarta\transaction\jakarta.transaction-api\2.0.1\jakarta.transaction-api-2.0.1.jar = 1698820754178
+C:\Users\mj371\.m2\repository\jakarta\persistence\jakarta.persistence-api\3.1.0\jakarta.persistence-api-3.1.0.jar = 1698820754303
+C:\Users\mj371\.m2\repository\jakarta\validation\jakarta.validation-api\3.0.2\jakarta.validation-api-3.0.2.jar = 1698820754254
+C:\Users\mj371\.m2\repository\jakarta\interceptor\jakarta.interceptor-api\2.1.0\jakarta.interceptor-api-2.1.0.jar = 1698820754205
+C:\Users\mj371\.m2\repository\jakarta\enterprise\jakarta.enterprise.cdi-api\4.0.1\jakarta.enterprise.cdi-api-4.0.1.jar = 1698820754363
+C:\Users\mj371\.m2\repository\jakarta\enterprise\jakarta.enterprise.lang-model\4.0.1\jakarta.enterprise.lang-model-4.0.1.jar = 1698820754281
+C:\Users\mj371\.m2\repository\jakarta\inject\jakarta.inject-api\2.0.1\jakarta.inject-api-2.0.1.jar = 1698820754274
+C:\Users\mj371\.m2\repository\jakarta\authentication\jakarta.authentication-api\3.0.0\jakarta.authentication-api-3.0.0.jar = 1698820754344
+C:\Users\mj371\.m2\repository\jakarta\security\enterprise\jakarta.security.enterprise-api\3.0.0\jakarta.security.enterprise-api-3.0.0.jar = 1698820754379
+C:\Users\mj371\.m2\repository\jakarta\jms\jakarta.jms-api\3.1.0\jakarta.jms-api-3.1.0.jar = 1698820754382
+C:\Users\mj371\.m2\repository\jakarta\activation\jakarta.activation-api\2.1.0\jakarta.activation-api-2.1.0.jar = 1698820754397
+C:\Users\mj371\.m2\repository\jakarta\mail\jakarta.mail-api\2.1.0\jakarta.mail-api-2.1.0.jar = 1698820754581
+C:\Users\mj371\.m2\repository\jakarta\resource\jakarta.resource-api\2.1.0\jakarta.resource-api-2.1.0.jar = 1698820754484
+C:\Users\mj371\.m2\repository\jakarta\authorization\jakarta.authorization-api\2.1.0\jakarta.authorization-api-2.1.0.jar = 1698820754451
+C:\Users\mj371\.m2\repository\jakarta\batch\jakarta.batch-api\2.1.1\jakarta.batch-api-2.1.1.jar = 1698820754494
+C:\Users\mj371\OneDrive\Documentos\Proyecto JSP\ejemplo1\actividad1\src\main\java = 1700231348597
+C:\Users\mj371\OneDrive\Documentos\Proyecto JSP\ejemplo1\actividad1\target\generated-sources\annotations = 1700234802574
+C:\Users\mj371\OneDrive\Documentos\Proyecto JSP\ejemplo1\actividad1\target\apidocs\allclasses-index.html = 1700234805948
+C:\Users\mj371\OneDrive\Documentos\Proyecto JSP\ejemplo1\actividad1\target\apidocs\allpackages-index.html = 1700234805951
+C:\Users\mj371\OneDrive\Documentos\Proyecto JSP\ejemplo1\actividad1\target\apidocs\copy.svg = 1700234805983
+C:\Users\mj371\OneDrive\Documentos\Proyecto JSP\ejemplo1\actividad1\target\apidocs\element-list = 1700234805889
+C:\Users\mj371\OneDrive\Documentos\Proyecto JSP\ejemplo1\actividad1\target\apidocs\help-doc.html = 1700234805979
+C:\Users\mj371\OneDrive\Documentos\Proyecto JSP\ejemplo1\actividad1\target\apidocs\index-all.html = 1700234805970
+C:\Users\mj371\OneDrive\Documentos\Proyecto JSP\ejemplo1\actividad1\target\apidocs\index.html = 1700234805939
+C:\Users\mj371\OneDrive\Documentos\Proyecto JSP\ejemplo1\actividad1\target\apidocs\link.svg = 1700234805985
+C:\Users\mj371\OneDrive\Documentos\Proyecto JSP\ejemplo1\actividad1\target\apidocs\member-search-index.js = 1700234805963
+C:\Users\mj371\OneDrive\Documentos\Proyecto JSP\ejemplo1\actividad1\target\apidocs\module-search-index.js = 1700234805952
+C:\Users\mj371\OneDrive\Documentos\Proyecto JSP\ejemplo1\actividad1\target\apidocs\overview-summary.html = 1700234805974
+C:\Users\mj371\OneDrive\Documentos\Proyecto JSP\ejemplo1\actividad1\target\apidocs\overview-tree.html = 1700234805936
+C:\Users\mj371\OneDrive\Documentos\Proyecto JSP\ejemplo1\actividad1\target\apidocs\package-search-index.js = 1700234805953
+C:\Users\mj371\OneDrive\Documentos\Proyecto JSP\ejemplo1\actividad1\target\apidocs\script.js = 1700234805982
+C:\Users\mj371\OneDrive\Documentos\Proyecto JSP\ejemplo1\actividad1\target\apidocs\search-page.js = 1700234805989
+C:\Users\mj371\OneDrive\Documentos\Proyecto JSP\ejemplo1\actividad1\target\apidocs\search.html = 1700234805973
+C:\Users\mj371\OneDrive\Documentos\Proyecto JSP\ejemplo1\actividad1\target\apidocs\search.js = 1700234805988
+C:\Users\mj371\OneDrive\Documentos\Proyecto JSP\ejemplo1\actividad1\target\apidocs\stylesheet.css = 1700234805981
+C:\Users\mj371\OneDrive\Documentos\Proyecto JSP\ejemplo1\actividad1\target\apidocs\tag-search-index.js = 1700234805964
+C:\Users\mj371\OneDrive\Documentos\Proyecto JSP\ejemplo1\actividad1\target\apidocs\type-search-index.js = 1700234805954
